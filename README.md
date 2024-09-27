@@ -77,7 +77,7 @@ To get started, open up a terminal window and navigate to your developer
 directory or any other directory where you want to create the virtual
 environment directory.
 
-Run the following commands to set up your environment.
+Run the following commands to set up your environment::
 
 ```bash
 # create the AI environment directory
